@@ -1,0 +1,22 @@
+.container, .container6 {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.container4{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+.container3,.container1,.container2{
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+}
